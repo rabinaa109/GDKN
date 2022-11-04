@@ -1,0 +1,13 @@
+
+.img {
+  float: left;
+  text-align: center;
+  width: 120px;
+  border: 1px solid rgb(0, 0, 0);
+  margin: 4px;
+  padding: 6px;
+}
+
+button {
+  width: 100%;
+}
